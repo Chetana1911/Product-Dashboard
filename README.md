@@ -74,11 +74,13 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/product-list-app.git
    cd product-list-app
 
-2.**Install dependencies:
+2. **Install dependencies:**
+   
    ```bash
    npm install
 
-3.**Running the Application
+4. **Running the Application**
+   
    ```bash
       npm start
 
