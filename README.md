@@ -74,6 +74,16 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/product-list-app.git
    cd product-list-app
 
+2.**Install dependencies:
+   ```bash
+   npm install
+
+3.**Running the Application
+   ```bash
+      npm start
+
+
+
 ![airia1](https://github.com/user-attachments/assets/30e8e45b-fb0a-4647-becd-37d0e5ddc44d)
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
